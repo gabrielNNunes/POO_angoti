@@ -1,5 +1,5 @@
 
-public class Ex6_aula2__06_02_2018 {
+public class aula2_Ex6_06_02_2018 {
 
 	public static void main(String[] args) {
 		int i = 1;
